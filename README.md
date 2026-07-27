@@ -26,7 +26,6 @@ This project presents an end-to-end data science solution using the Global Super
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Power BI
 - Jupyter Notebook
 
 ---
@@ -76,9 +75,6 @@ Model Optimization
 
 Business Recommendations
 
-↓
-
-Dashboard
 
 ---
 
